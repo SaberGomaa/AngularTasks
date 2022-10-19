@@ -11,7 +11,10 @@ ProductList: IProduct[];
 
   constructor() { 
     this.ProductList = [
-      {Id : 1 , Name : 'Lab Dell' ,Price : 100 , Quantity : 10 ,CatId : 1 ,Img : 'https://fakeimg.pl/50x50/'}
+      {Id : 1 , Name : 'Lab Dell' ,Price : 100 , Quantity : 10 ,CatId : 1 ,Img : 'https://fakeimg.pl/50x50/'},
+      {Id : 1 , Name : 'Lab Dell' ,Price : 100 , Quantity : 10 ,CatId : 1 ,Img : 'https://fakeimg.pl/50x50/'},
+      {Id : 1 , Name : 'Lab Dell' ,Price : 100 , Quantity : 10 ,CatId : 1 ,Img : 'https://fakeimg.pl/50x50/'},
+
     ]
   }
 
